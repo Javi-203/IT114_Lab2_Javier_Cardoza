@@ -1,18 +1,18 @@
-Sally L. Smith
-086244
-100000.00
-Ramsey Hall 3814
-9976
-9
-Lucy Bayer
-288567
-39500.57
-Cullimore Hall 100
-6000
-1
-William Harris
-732241
-120000.00
-GITC 165
-7533
-4
+Tom Cruz
+198732
+455000.67
+Ramsey Hall 5679
+2467
+43
+Sylvestor Stallone
+337961
+179500.87
+Cullimore Hall 205
+6965<
+50
+Jim Carrey
+798425
+28100.10
+GITC 965
+1057
+45
